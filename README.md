@@ -1,5 +1,4 @@
 # AI-Based-Movie-Recommendation-System
-# 🎬 Movie Recommendation System
 
 ## 📌 Overview
 
